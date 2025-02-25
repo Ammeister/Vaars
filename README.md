@@ -1,2 +1,2 @@
-# V-rs
+# Vaars
 Raw data from Basels Väärs
